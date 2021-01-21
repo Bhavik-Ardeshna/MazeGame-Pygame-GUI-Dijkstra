@@ -3,11 +3,11 @@
 > Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm
 
 # Installation
-
-1. `git clone https://github.com/Bhavik-Ardeshna/MazeGame.git`
-2. `cd MazeGame`
-3. `python3 Main.py`
-
+```sh
+`git clone https://github.com/Bhavik-Ardeshna/MazeGame.git`
+`cd MazeGame`
+`python3 Main.py`
+```
 ## Tools
 
 1. Mouse `left button` set start position
