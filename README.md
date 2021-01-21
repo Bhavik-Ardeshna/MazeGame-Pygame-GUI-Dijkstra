@@ -7,8 +7,8 @@
 
 # Installation
 ```sh
-git clone https://github.com/Bhavik-Ardeshna/MazeGame.git
-cd MazeGame
+git clone https://github.com/Bhavik-Ardeshna/MazeGame-Pygame-GUI-Dijkstra.git
+cd MazeGame-Pygame-GUI-Dijkstra
 python3 Main.py
 ```
 ## Tools
