@@ -1,0 +1,12 @@
+class Colour:
+    WHITE = (248, 248, 255)
+    BLACK = (0, 0, 10)
+    ORANGE = (255, 165, 0)
+    YELLOW = (255, 233, 0)
+    GREY = (50, 50, 50)
+    LIGHT_GREY = (100, 100, 100)
+    PURPLE = (128, 0, 128)
+    GREEN = (80, 178, 0)
+    RED = (220, 20, 60)
+    BLUE = (0, 20, 220)
+    LIGHT_BLUE = (0, 144, 224)
