@@ -2,11 +2,14 @@
 
 > Dijkstra's algorithm (or Dijkstra's Shortest Path First algorithm
 
+## Dependencies
+- [pygame](https://www.pygame.org)
+
 # Installation
 ```sh
-`git clone https://github.com/Bhavik-Ardeshna/MazeGame.git`
-`cd MazeGame`
-`python3 Main.py`
+git clone https://github.com/Bhavik-Ardeshna/MazeGame.git
+cd MazeGame
+python3 Main.py
 ```
 ## Tools
 
