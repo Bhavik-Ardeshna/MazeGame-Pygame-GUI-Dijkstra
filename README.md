@@ -4,10 +4,9 @@
 
 # Installation
 
-1. `git clone https://github.com/dvdvgt/shortest-path-visualizer.git`
-2. `cd shortest-path-visualizer`
-3. `pip install --user -r requirements.txt`
-4. `python -m pathfinder.main`
+1. `git clone https://github.com/Bhavik-Ardeshna/MazeGame.git`
+2. `cd MazeGame`
+3. `python3 Main.py`
 
 ## Tools
 
